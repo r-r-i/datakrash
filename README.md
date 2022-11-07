@@ -116,17 +116,6 @@ Distributed under the MIT license. See MIT's [documentation](https://opensource.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Contact
-
-**Dan**
-
-- [Portfolio](https://dansmith09.github.io/Dan-Smith-Professional-Portfolio/) 
-- [GitHub](https://github.com/dansmith09)
-
-**Ruben**
-
-- [LinkedIn](https://www.linkedin.com/in/ruben-iacono-158b20207/)
-- [GitHub](https://github.com/r-r-i)
 
 
 ## Acknowledgements
@@ -160,14 +149,17 @@ Distributed under the MIT license. See MIT's [documentation](https://opensource.
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/dansmith09/Build-Your-Budget.svg?style=for-the-badge
-[contributors-url]: https://github.com/dansmith09/Build-Your-Budgete/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/dansmith09/Build-Your-Budget.svg?style=for-the-badge
-[issues-url]: https://github.com/dansmith09/Build-Your-Budget/issues
-[forks-shield]: https://img.shields.io/github/forks/dansmith09/Build-Your-Budget.svg?style=for-the-badge
-[forks-url]: https://github.com/dansmith09/Build-Your-Budget/network/members
-[stars-shield]: https://img.shields.io/github/stars/dansmith09/Build-Your-Budget.svg?style=for-the-badge
-[stars-url]: https://github.com/dansmith09/Build-Your-Budget/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/r-r-i/datakrash.svg?style=for-the-badge
+[contributors-url]: https://github.com/r-r-i/datakrash/graphs/contributors
+
+[issues-shield]: https://img.shields.io/github/issues/r-r-i/datakrash.svg?style=for-the-badge
+[issues-url]: https://github.com/r-r-i/datakrash/issues
+
+[forks-shield]: https://img.shields.io/github/forks/r-r-i/datakrash.svg?style=for-the-badge
+[forks-url]: https://github.com/r-r-i/datakrash/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/r-r-i/Build-Your-Budget.svg?style=for-the-badge
+[stars-url]: https://github.com/r-r-i/datakrash/stargazers
 
  
  
